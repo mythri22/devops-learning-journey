@@ -1,0 +1,8 @@
+2026-11-20 10:01:02 INFO Starting application
+2026-11-20 10:01:05 INFO Connected to database
+2026-11-20 10:02:11 WARNING Slow query detected
+2026-11-20 10:03:45 ERROR Failed to connect to payment service
+2026-11-20 10:03:46 ERROR Retrying connection
+2026-11-20 10:04:01 INFO Retry succeeded
+2026-11-20 10:05:30 ERROR Disk usage above 90%
+2026-11-20 10:06:00 INFO Request processed
