@@ -2,7 +2,7 @@
 # devops-learning-journey
 # devops-learning-journey
 
-A hands-on portfolio project documenting my path to becoming a DevOps engineer — covering Linux/Bash, Git, Python, Docker, Kubernetes, Jenkins, Helm, and Prometheus/Grafana.
+A hands-on portfolio project projecting my path to becoming a DevOps engineer — covering Linux/Bash, Git, Python, Docker, Kubernetes, Jenkins, Helm, and Prometheus/Grafana.
 
 ## Progress
 - [x] Phase 0: Linux & Bash fundamentals
