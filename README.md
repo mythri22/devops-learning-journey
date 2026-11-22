@@ -5,7 +5,7 @@ A hands-on portfolio project tracking my path to becoming a DevOps engineer — 
 
 ## Progress
 - [x] Phase 0: Linux & Bash fundamentals
-- [ ] Phase 1: Git workflows
+- [x] Phase 1: Git workflows
 - [ ] Phase 2: Python basics
 - [ ] Phase 3: Docker
 - [ ] Phase 4: Kubernetes
