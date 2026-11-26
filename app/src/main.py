@@ -6,7 +6,7 @@ tasks= [{"id":1,"job":"docker","done":False},{"id":2,"job":"eks","done":False}]
 
 @app.get("/")
 def read_root():
-	return {"message" :"Hi there,welcome to my api"}
+	return {"message" :"Welcome to inside the docker"}
 
 @app.get("/tasks")
 def get_tasks():
